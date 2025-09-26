@@ -7,3 +7,4 @@ Proyecto final contra el cambio climatico
 
 ****#Este es mi tipo de proyecto:**
 >tengo 2 ideas que es o un bot de discord o un generador  de memes pormoviendo el ahorro de agua y la disminucion de compra de agua
+>si fuera un bot utilizaria varias funciones como por ejemplo el de apis y por ejemplo usaria la del clima y haria comandos para saber esas epocas y otra de un mini generador de memes con todo el tema de cambio climatico
